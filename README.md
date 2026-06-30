@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
