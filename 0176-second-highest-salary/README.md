@@ -1,57 +1,128 @@
-<h2><a href="https://leetcode.com/problems/second-highest-salary">176. Second Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
+# 176. Second Highest Salary
 
-<pre>
-+-------------+------+
-| Column Name | Type |
-+-------------+------+
-| id          | int  |
-| salary      | int  |
-+-------------+------+
-id is the primary key (column with unique values) for this table.
-Each row of this table contains information about the salary of an employee.
-</pre>
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange)
+![Language](https://img.shields.io/badge/Language-SQL-blue)
 
-<p>&nbsp;</p>
+## 🔗 Problem
 
-<p>Write a solution to find&nbsp;the second highest <strong>distinct</strong> salary from the <code>Employee</code> table. If there is no second highest salary,&nbsp;return&nbsp;<code>null (return&nbsp;None in Pandas)</code>.</p>
+**LeetCode:** https://leetcode.com/problems/second-highest-salary/
 
-<p>The result format is in the following example.</p>
+### Problem Statement
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+Given the `Employee` table, find the **second highest distinct salary**.
 
-<pre>
-<strong>Input:</strong> 
-Employee table:
-+----+--------+
+If there is no second highest salary, return **NULL**.
+
+---
+
+## 💡 Intuition
+
+To find the second highest distinct salary:
+
+- Find the highest salary.
+- Ignore all rows having that highest salary.
+- Among the remaining salaries, find the maximum salary.
+- If no salary remains, `MAX()` returns `NULL`.
+
+---
+
+## 🚀 Approach
+
+1. Use a subquery to find the highest salary.
+2. Filter salaries that are less than the highest salary.
+3. Apply `MAX()` on the remaining salaries.
+4. Rename the output column as `SecondHighestSalary`.
+
+---
+
+## ✅ SQL Solution
+
+```sql
+SELECT MAX(salary) AS SecondHighestSalary
+FROM Employee
+WHERE salary < (
+    SELECT MAX(salary)
+    FROM Employee
+);
+```
+
+---
+
+## 🧪 Example
+
+### Input
+
 | id | salary |
-+----+--------+
-| 1  | 100    |
-| 2  | 200    |
-| 3  | 300    |
-+----+--------+
-<strong>Output:</strong> 
-+---------------------+
+|----|--------|
+|1|100|
+|2|200|
+|3|300|
+
+### Step 1: Highest Salary
+
+```text
+300
+```
+
+### Step 2: Salaries Less Than Highest
+
+```text
+100
+200
+```
+
+### Step 3: Maximum of Remaining Salaries
+
+```text
+200
+```
+
+### Output
+
 | SecondHighestSalary |
-+---------------------+
-| 200                 |
-+---------------------+
-</pre>
+|---------------------|
+| 200 |
 
-<p><strong class="example">Example 2:</strong></p>
+---
 
-<pre>
-<strong>Input:</strong> 
-Employee table:
-+----+--------+
+## 🧪 Example 2
+
+### Input
+
 | id | salary |
-+----+--------+
-| 1  | 100    |
-+----+--------+
-<strong>Output:</strong> 
-+---------------------+
+|----|--------|
+|1|100|
+
+### Step 1: Highest Salary
+
+```text
+100
+```
+
+### Step 2: Salaries Less Than Highest
+
+```text
+No rows
+```
+
+### Output
+
 | SecondHighestSalary |
-+---------------------+
-| null                |
-+---------------------+
-</pre>
+|---------------------|
+| NULL |
+
+---
+
+## 🔑 Key Takeaways
+
+- `MAX()` returns the highest value.
+- The subquery finds the highest salary.
+- `WHERE salary < (highest salary)` removes the maximum salary.
+- Applying `MAX()` again returns the second highest **distinct** salary.
+- If no second highest salary exists, `MAX()` on an empty set returns `NULL`.
+
+---
+
+## 🏷 Tags
+
+`SQL` `Subquery` `Aggregate Functions` `MAX()` `LeetCode`
