@@ -37,7 +37,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 | # | Problem | Difficulty | Topics | Language | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | SQL | [approach](SQL/0176-second-highest-salary/README.md)&nbsp;·&nbsp;[code](SQL/0176-second-highest-salary/0176-second-highest-salary.sql) | 2 | Jul&nbsp;10,&nbsp;2026 |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | SQL | [approach](SQL/0176-second-highest-salary/README.md)&nbsp;·&nbsp;[code](SQL/0176-second-highest-salary/0176-second-highest-salary.sql) | 3 | Jul&nbsp;10,&nbsp;2026 |
 
 <sub><b>Syncs</b> = accepted pushes for that problem, so a re-solve bumps it.</sub>
 
