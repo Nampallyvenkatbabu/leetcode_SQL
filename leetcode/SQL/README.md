@@ -26,7 +26,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 
 | # | Problem | Difficulty | Topics | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | [approach](0176-second-highest-salary/README.md)&nbsp;·&nbsp;[code](0176-second-highest-salary/0176-second-highest-salary.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | [approach](0176-second-highest-salary/README.md)&nbsp;·&nbsp;[code](0176-second-highest-salary/0176-second-highest-salary.sql) | 2 | Jul&nbsp;10,&nbsp;2026 |
 
 <sub><b>Syncs</b> = accepted pushes for that problem, so a re-solve bumps it.</sub>
 
