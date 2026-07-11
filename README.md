@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0620-not-boring-movies) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
