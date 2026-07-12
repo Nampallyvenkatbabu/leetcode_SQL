@@ -19,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1045-customers-who-bought-all-products) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1527-patients-with-a-condition) |
+| [1873-calculate-special-bonus](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
