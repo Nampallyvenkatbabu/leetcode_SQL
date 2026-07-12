@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-/*
+
 select e.name,b.bonus 
 from Employee e
 LEFT JOIN
@@ -7,7 +7,8 @@ Bonus b
 on e.empId = b.empId 
 where b.bonus < 1000 or b.bonus is null
 
-Alternate solution for corelated subquery */
+/*
+Alternate solution with corelated subquery 
 
 select e.name,
 (
@@ -28,3 +29,5 @@ or
     from Bonus b
     where b.empId = e.empId 
 ) is NULL;
+
+*/
