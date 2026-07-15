@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1045-customers-who-bought-all-products) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1517-find-users-with-valid-e-mails) |
