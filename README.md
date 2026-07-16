@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1075-project-employees-i) |
 | [1193-monthly-transactions-i](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1251-average-selling-price) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1527-patients-with-a-condition) |
 | [1873-calculate-special-bonus](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1873-calculate-special-bonus) |
