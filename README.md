@@ -30,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1693-daily-leads-and-partners](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1693-daily-leads-and-partners) |
 | [1873-calculate-special-bonus](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
