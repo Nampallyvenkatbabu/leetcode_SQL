@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1084-sales-analysis-iii) |
 | [1193-monthly-transactions-i](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1251-average-selling-price) |
