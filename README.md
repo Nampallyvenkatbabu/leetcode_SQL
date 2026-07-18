@@ -39,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1693-daily-leads-and-partners) |
+| [1789-primary-department-for-each-employee](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
