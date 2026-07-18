@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1251-average-selling-price) |
+| [1393-capital-gainloss](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1393-capital-gainloss) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Nampallyvenkatbabu/leetcode_SQL/tree/master/1587-bank-account-summary-ii) |
